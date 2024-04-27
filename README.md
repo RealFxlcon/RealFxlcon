@@ -1,5 +1,10 @@
 # Fxlcon's Github Page! 
-
+Welcome to my Github Page! Here you can find out:
+```
+1. What I'm currently working on.
+2. Some information about me.
+3. What my plans for future projects are.
+```
 <!--
 **RealFxlcon/RealFxlcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
