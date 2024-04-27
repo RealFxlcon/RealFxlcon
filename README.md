@@ -30,11 +30,10 @@ Obviously I want to finish my studies and then go on to get a full time job in t
 ### Where to Find me?
 You can find me via my email or other social media platforms I use:
 Email : F41conPl4yz@gmail.com
-
 [Twitch](https://www.twitch.tv/fxlconr6)
+[Youtube](https://www.youtube.com/channel/UC0zbSPPO7VZOTCBQIsCnQhA)
 
-
-
+![Spider-Man!](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreepngimg.com%2Fpng%2F17108-spider-man-free-png-image&psig=AOvVaw1LF6OHaddwZEtPPfYFKh9K&ust=1714341723216000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCjlt6y44UDFQAAAAAdAAAAABAE)
 
 
 <!--
