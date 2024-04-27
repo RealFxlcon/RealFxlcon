@@ -7,12 +7,14 @@ Welcome to my Github Page! Here you can find out:
 ```
 ## My Current Project:
 Currently, I am working on 2 projects in my spare time:
-```
+`
 One is a differentiation/integratation program that can be used to figure out areas under graph lines.
 I wrote it in JavaScript and have been practically testing by figuring out the area underneath bridges near my house.
 My second Project is a game built in UE5 (Unreal Engine 5) that is written in c++.
 It's all very new to me but I've been finding it extremely fun to learn.
-```
+
+## General Information:
+
 <!--
 **RealFxlcon/RealFxlcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
