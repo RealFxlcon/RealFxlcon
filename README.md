@@ -26,6 +26,11 @@ Obviously I want to finish my studies and then go on to get a full time job in t
 2. I also really enjoy getting active and going to the gym.
 3. If I could live in one country it would have to be Cyprus.
 4. My favourite video game of all time is Tom Clancy's Rainbow Six: Siege
+
+### Where to Find me?
+You can find me via my email or other social media platforms I use:
+Email : F41conPl4yz@gmail.com
+[Twitch]([url](https://www.twitch.tv/fxlconr6))
 <!--
 **RealFxlcon/RealFxlcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
