@@ -30,6 +30,12 @@ Obviously I want to finish my studies and then go on to get a full time job in t
 ### Where to Find me?
 You can find me via my email or other social media platforms I use:
 Email : F41conPl4yz@gmail.com
+[Twitch]((https://www.twitch.tv/fxlconr6))
+
+
+
+
+
 <!--
 **RealFxlcon/RealFxlcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
